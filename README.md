@@ -1,6 +1,6 @@
 This Repository contains the details of Airflow with BashOperator, PythonOperator, Airflow with API
 
-# Commands are aas follows.
+# Commands are as follows.
 
 Download Docker for mac OS and check in terminal if its installed correctly  using below commands
 ### 1 - docker --version
