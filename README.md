@@ -55,3 +55,7 @@ Download Docker for mac OS and check in terminal if its installed correctly  usi
 yes , using xcom we can do it. "
 
 Note:- Even if we can pass the value/share data between tasks through xcom - but the max size is 48kb
+
+## cron job - Schedules 
+![image](https://github.com/user-attachments/assets/f5189543-969a-439c-b04e-13f6f24fec3a)
+
