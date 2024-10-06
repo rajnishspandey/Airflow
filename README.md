@@ -59,3 +59,6 @@ Note:- Even if we can pass the value/share data between tasks through xcom - but
 ## cron job - Schedules 
 ![image](https://github.com/user-attachments/assets/f5189543-969a-439c-b04e-13f6f24fec3a)
 
+## created custom cron job schedule 
+[https://crontab.guru/]
+
